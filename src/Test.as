@@ -5,6 +5,7 @@ package {
 	{
 		public function Test()
 		{
+			// bah!
 		}
 	}
 }
